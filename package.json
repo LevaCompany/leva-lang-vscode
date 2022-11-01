@@ -1,0 +1,12 @@
+{
+  "name": "LevaLang",
+  "displayName": "Leva Language",
+  "descripton": "Support Leva Language for Visual Studio Code",
+  "version": "1.0.0",
+  "engines": {
+     "vscode": "8.53.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+}
